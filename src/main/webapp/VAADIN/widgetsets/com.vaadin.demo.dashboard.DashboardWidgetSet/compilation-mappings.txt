@@ -1,0 +1,31 @@
+991A96203A07BBA2E7052D0553F85F2E.cache.js
+ClientBundle.enableInlining true
+audioElementSupport maybe
+canvasElementSupport maybe
+compiler.emulatedStack false
+compiler.predeclare.cross.fragment.references false
+compiler.stackMode native
+compiler.useSourceMaps false
+compiler.useSymbolMaps false
+dragEventSupport maybe
+gwt.enableDebugId false
+gwt.forceBidi false
+gwt.logging.consoleHandler ENABLED
+gwt.logging.developmentModeHandler ENABLED
+gwt.logging.enabled TRUE
+gwt.logging.hasWidgetsHandler DISABLED
+gwt.logging.logLevel INFO
+gwt.logging.simpleRemoteHandler DISABLED
+gwt.logging.systemHandler DISABLED
+gwt.suppressNonStaticFinalFieldWarnings false
+locale default
+modernie none
+rpc.XserializeFinalFields false
+superdevmode off
+touchEventSupport maybe
+user.agent safari
+vaadin.profiler false
+videoElementSupport maybe
+webApiUsage modern
+
+Devmode:devmode.js
